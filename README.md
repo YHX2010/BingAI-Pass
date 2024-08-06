@@ -3,11 +3,14 @@
 
 ## Hugging Face 部署
 ~~（不建议，因为我HF的号不知道是不是因为ta封的）~~
+
 克隆本存储库到本地，删除本地README.md并将README-hf.md改名为README.md，再上传至Hugging Face
+
 （[Watt Toolkit](https://steampp.net)支持本地反代加速HF&GitHub）
 
 ## 其他
 ~~呃……暂时还没做~~
+
 欢迎提交PR！
 
 ## ~~宇宙通用~~免责声明
